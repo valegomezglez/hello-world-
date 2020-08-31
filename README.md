@@ -1,6 +1,10 @@
 # hello-world-
 Primer repositorio Github para aprender el uso de Git
 
+<<<<<<< HEAD
+=======
+Hola, soy vale intentando hacer esto
+>>>>>>> master
 
 ## Temario del curso de Simulación Matemática
 
